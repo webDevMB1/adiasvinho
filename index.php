@@ -102,33 +102,11 @@
 			</div>
 
 			<div class="work-grids">
-				<div class="work-grids-top">
-					<div class="col-md-6 work-grid-left">
-						<h5>Envidia Cochina</h5>
-						<p>Frore de Carme, S.L. - Finca Eladio Piñeiro</p>
-						<a href="/adiasvinho/vinhos/espanha/rias_baixas/envidia_cochina.php" style="text-decoration: none">mais</a>
-					</div>
-					<div class="col-md-6 work-grid-middle">
-						<center><img src="images/envidia_cochina.jpg" alt="envidia cochina" style="height: 260px; width: auto"></center>
-					</div>
-					<div class="clearfix"> </div>
-				</div>
-
-				<div class="work-grids-top">
-					<div class="col-md-6 work-grid-middle">
-						<center><img src="images/frore_carme.jpg" alt="frore carme" style="height: 260px; width: auto"></center>
-					</div>
-					<div class="col-md-6 work-grid-left">
-						<h5>Frore de Carme</h5>
-						<p>Frore de Carme, S.L. - Finca Eladio Piñeiro</p>
-						<a href="/adiasvinho/vinhos/espanha/rias_baixas/frore_carme.php" style="text-decoration: none">mais</a>
-					</div>
-				</div>
 
 				<div class="work-grids-top">
 					<div class="col-md-6 work-grid-left">
 						<h5>Camões</h5>
-						<p>Adega Familiar Eladio Piñeiro, Lda.</p>
+						<p>ADiasdVinho, Lda.</p>
 						<a href="/adiasvinho/vinhos/portugal/alentejo/camoes.php" style="text-decoration: none">mais</a>
 					</div>
 					<div class="col-md-6 work-grid-middle">
@@ -143,11 +121,33 @@
 					</div>
 					<div class="col-md-6 work-grid-left">
 						<h5>La Coartada</h5>
-						<p>Adega Familiar Eladio Piñeiro, Lda.</p>
+						<p>ADiasdVinho, Lda.</p>
 						<a href="/adiasvinho/vinhos/portugal/alentejo/la_coartada.php" style="text-decoration: none">mais</a>
 					</div>
 					<div class="clearfix"> </div>
 				</div>
+				<!--<div class="work-grids-top">
+					<div class="col-md-6 work-grid-left">
+						<h5>Envidia Cochina</h5>
+						<p>ADiasdVinho, Lda.</p>
+						<a href="/adiasvinho/vinhos/espanha/rias_baixas/envidia_cochina.php" style="text-decoration: none">mais</a>
+					</div>
+					<div class="col-md-6 work-grid-middle">
+						<center><img src="images/envidia_cochina.jpg" alt="envidia cochina" style="height: 260px; width: auto"></center>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+
+				<div class="work-grids-top">
+					<div class="col-md-6 work-grid-middle">
+						<center><img src="images/frore_carme.jpg" alt="frore carme" style="height: 260px; width: auto"></center>
+					</div>
+					<div class="col-md-6 work-grid-left">
+						<h5>Frore de Carme</h5>
+						<p>ADiasdVinho, Lda.</p>
+						<a href="/adiasvinho/vinhos/espanha/rias_baixas/frore_carme.php" style="text-decoration: none">mais</a>
+					</div>
+				</div>-->
 
 			</div>
 		</div>	

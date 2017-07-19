@@ -56,13 +56,13 @@
 											  <li><a tabindex="-1" href="/adiasvinho/vinhos/portugal/alentejo/" style="margin-top: 5%">Alentejo</a></li>
 											</ul>
 									  	</li>
-									  	<li class="dropdown-submenu">
+									  	<!--<li class="dropdown-submenu">
 											<a href="#" class="dropdown-toggle" data-toggle="dropdown-submenu" role="button" aria-haspopup="true" aria-expanded="false">Espanha<span class="caret"></span></a>
 											<ul class="dropdown-menu" style="margin-top: 0.5px; padding-left:10px">
 											  <li><a tabindex="-1" href="/adiasvinho/vinhos/espanha/rias_baixas/" style="margin-top: 5%">Rias Baixas</a></li>
 											</ul>
 									  	</li>
-										<!--<li><a class="hvr-bounce-to-bottom" href="gallery.html">Espanha</a></li> -->
+										<li><a class="hvr-bounce-to-bottom" href="gallery.html">Espanha</a></li> -->
 									</ul>
 								</li>	
 								<!--<li><a href="blog.html">Blog</a></li>-->
@@ -96,45 +96,24 @@
 							</div>
 							<br>
 							<div class="blog-left-bottom">
-								<P>camôes - grande escolha Adega Familiar Eladio Piñeiro elabora en su palacete-bodega de Alentejo dos tintos Premium: CAMÕES - Grande Escolha y SAGA EP - Reserva Privada.</P>
+								<P>camôes - grande escolha ADiasdVinho elaborado na adega de Estremoz - Alentejo dos tintos Premium: CAMÕES - Grande Escolha e SAGA EP - Reserva Privada.</P>
 							</div>
 							<br>
 							<div class="blog-left-bottom left-bottom">
-								<P>Después de una intensa búsqueda durante cinco años, en 2004, localizamos una viña de mediana edad con suelos muy pobres de pizarra, declives suaves y exposición Sur. En este tiempo nos ha sido fácil la aproximación a la Biodinámica, ya que los tratamientos fitosanitarios a los que estaba sometida eran casi inexistentes. La viña está en espaldera, a una altura del suelo relativamente baja y en Guyot doble y su expansión vegetativa es pequeña.</P>
+								<P>Depois de uma intensa busca durante 5 anos, em 2004 encontramos a região ideal para elaborar estes dois tintos premium.</P>
 							</div>
 							<div class="blog-left-bottom left-bottom">
-								<P>Alentejo, limitado al norte por el río Tajo y al sur por el Algarve, se caracteriza por la amplitud del paisaje, intercalándose los alcornoques, encinas (principal alimento del cerdo ibérico) y olivos del interior, con las playas salvajes del litoral de una belleza agreste e inexplorada. Los Cortijos, blancas casas de planta baja, coronan pequeñas elevaciones, los castillos evocan luchas y conquistas, y los patios y jardines son testigos de influencias árabes. Influencias que alcanzan a su toponimia, sus costumbres, artes tradicionales (alfombras) y culturales como el Canto y la Poesía.</P>
+								<P>Os nossos vinhos apresentam-se numa garrafa de desenho próprio inspirado nas antigas vasilhas do tempo dos descobrimentos que as caravelas levavam.</P>
 							</div>
 							<div class="blog-left-bottom left-bottom">
-								<P>Los diferentes pueblos que la habitaron a lo largo del tiempo, también influyeron decisivamente en sus costumbres y modos de vida. Así emergió una cultura específica distinta de las restantes regiones de Portugal. Su tipicidad se mantiene genuina hasta la actualidad, con un legado histórico vasto y monumental; una cultura rica y única. Es un pueblo sereno y hospitalario. En el Alentejo, la fuerza de la tierra marca el tiempo.</P>
+								<P>Tipo de vinho: Tinto com 12 meses de barrica de Allier nova.</P>
 							</div>
 							<div class="blog-left-bottom left-bottom">
-								<P>Nuestras instalaciones, así como nuestro viñedo, se encuentran en Estremoz (también conocida por la extracción de mármol de alta calidad de su subsuelo), situado en el límite norte-centro del Alentejo, el cual tiene un microclima muy especial pues está protegido al sur, por la Serra da Ossa y, al norte, por la Serra de San Mamede.</P>
+								<P>CLASIFICACION DE ORIGEM: D.O.C. Alentejo: VARIEDADES DE UVA: 80% Aragonez, 15% Alicante Bouschet, 5% Cabernet Sauvignon; GRADUAÇÃO: 14,5% vol.; </P>
 							</div>
-							<div class="blog-left-bottom left-bottom">
-								<P>Nuestros vinos se presentan en una botella de diseño propio, inspirado en las antiguas vasijas que, en los Descubrimientos, llevaban las Carabelas en sus bodegas; vestidos con una imagen que transmite nuestra simbiosis con la zona.</P>
-							</div>
-							<div class="blog-left-bottom left-bottom">
-								<P>Fase visual: Cereza con lengüeta teja, abundante lágrima, capa media y limpio.</P>
-							</div>
-							<div class="blog-left-bottom left-bottom">
-								<P>Fase olfativa: Tostados, torrefactos y minerales que, al agitar, muestra su complejidad y finura. Aparecen aromas de retama, sotobosque, café, tinta china y ligero recuerdo a frutas del bosque.</P>
-							</div>
-							<div class="blog-left-bottom left-bottom">
-								<P>Fase gustativa: Amplio y amable a la vez, al mantenerlo en la boca se revela complejo con recuerdos a tostados y minerales pero también al sotobosque y la tinta china, complejo, redondo, sin aristas a pesar de la fuerza tánica. Largo en el retrogusto, agradable, con carácter y goloso.</P>
-							</div>
-							<div class="blog-left-bottom left-bottom">
-								<P>Tipo de vino: Tinto con 12 meses de barrica de Allier nueva.</P>
-							</div>
-							<div class="blog-left-bottom left-bottom">
-								<P>Número de botellas producidas : 7.800</P>
-							</div>
-							<div class="blog-left-bottom left-bottom">
-								<P>AZÚCAR RESIDUAL: 3,8 ; NIVEL DE ACIDEZ: 6,2 ; pH: 3,46 ; POLIFENOLES: 64,78</P>
-							</div>
-							<div class="blog-left-bottom left-bottom">
-								<P>CLASIFICACION DE ORIGEN: D.O.C. Alentejo; AÑADA: 2005; VARIEDADES DE UVA: 80% Aragonez, 15% Alicante Bouschet, 5% Cabernet Sauvignon; SUELO DEL VIÑEDO Y EXPOSICIÓN: Pizarroso y exposición Sur; RENDIMIENTO POR HECTÁREA: 4- 6.000 kg ; GRADUACIÓN:14,5% vol.; CLIMA DE LA ZONA: mediterráneo y continental; EDAD MEDIA DE LOS VIÑEDOS: 15 años; TIPO DE VENDIMIA: Manual; TIPO DE ELABORACIÓN: Maceración prolongada; TEMPERATURA MEDIA DE FERMENTACIÓN: 19º-20º; TIPO DE BARRICAS: tostado medio, grano fino; TEMPERATURA DE CONSUMO: 17º-19º</P>
-							</div>
+							<!--<div class="blog-left-bottom left-bottom">
+								<P>Este vinho mantem as mesmas características do vinho Camões mas o rotulo foi criado especificamente para os países da américa-latina. </P>
+							</div>-->
 						</div>
 						<!--<div class="response">
 							<h3>Responses</h3>
@@ -244,7 +223,6 @@
 				<h3>Detalhes</h3>
 				<ul>
 					<li><a href="/adiasvinho/about.html">Sobre</a></li>
-					<li><a href="/adiasvinho/codes.html">Vinhos</a></li>
 					<li><a href="/adiasvinho/contact.html">Contacto</a></li>
 				</ul>
 			</div>
@@ -265,12 +243,13 @@
 				<form>
 					<!--<input type="text" placeholder="Email address" required="">
 					<input type="submit" value="Subscribe">-->
-					<a href="#"><img src="/adiasvinho/images/logo2020.png"></a>
-					<br></br>
+					<br>
 					<ul>
-						<li>A Dias d'Vinho, Lda. <br> Promoção, Consultoria e Comércio de Vinho</li>
-						<li>Empresa candidata ao Portugal 2020 com projecto aprovado nº 020278</li>
+						<li>ADiasdVinho, Lda. <br> Promoção, Consultoria e Comércio de Vinho</li>
+						<li>Empresa candidata a fundos do Portugal 2020 com projecto aprovado nº <strong>020278</strong></li>
 					</ul>
+					<br>
+					<a href="#"><img src="/adiasvinho/images/logo2020.png" width="100%"></a>
 					<!--<p style="color: white; float: left">A Dias d'Vinho, Lda. <br> Promoção, Consultoria e Comércio de vinho</p>-->
 				</form>
 			</div>

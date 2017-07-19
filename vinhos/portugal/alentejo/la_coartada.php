@@ -56,13 +56,13 @@
 											  <li><a tabindex="-1" href="/adiasvinho/vinhos/portugal/alentejo/" style="margin-top: 5%">Alentejo</a></li>
 											</ul>
 									  	</li>
-									  	<li class="dropdown-submenu">
+									  	<!--<li class="dropdown-submenu">
 											<a href="#" class="dropdown-toggle" data-toggle="dropdown-submenu" role="button" aria-haspopup="true" aria-expanded="false">Espanha<span class="caret"></span></a>
 											<ul class="dropdown-menu" style="margin-top: 0.5px; padding-left:10px">
 											  <li><a tabindex="-1" href="/adiasvinho/vinhos/espanha/rias_baixas/" style="margin-top: 5%">Rias Baixas</a></li>
 											</ul>
 									  	</li>
-										<!--<li><a class="hvr-bounce-to-bottom" href="gallery.html">Espanha</a></li> -->
+										<li><a class="hvr-bounce-to-bottom" href="gallery.html">Espanha</a></li> -->
 									</ul>
 								</li>	
 								<!--<li><a href="blog.html">Blog</a></li>-->
@@ -96,41 +96,23 @@
 							</div>
 							<br>
 							<div class="blog-left-bottom">
-								<P>Saga EP  Tinto Premium elaborado por Eladio Piñeiro en su palacete-bodega de Alentejo</P>
-							</div>
-							<div class="blog-left-bottom">
-								<P>Después de una intensa búsqueda durante cinco años, en 2004, localizamos una viña de 35 años con suelos muy pobres de pizarra, declives suaves y exposición Sur. Llevando más de ocho de transición a la biodinámica, en este periodo de tiempo nos ha sido fácil dicha transición, ya que los tratamientos fitosanitarios a los que estaba sometida eran casi inexistentes. La viña está en espaldera, a una altura del suelo relativamente baja, la poda se realiza en Guyot doble y su expansión vegetativa es pequeña, situada en el límite norte-centro del Alentejo, el cual tiene un microclima muy especial, pues está protegido al sur-sureste, por la Sierra da Ossa, al norte, por la Sierra de San Mamede y al oeste por la Sierra de São Miguel.</P>
+								<P>LA COARTADA - grande escolha ADiasdVinho elaborado na adega de Estremoz - Alentejo dos tintos Premium: LA COARTADA - Grande Escolha e SAGA EP - Reserva Privada.</P>
 							</div>
 							<br>
 							<div class="blog-left-bottom left-bottom">
-								<strong><p>La Coartada – Grande Escolha 2009<br><p></strong>
+								<P>Depois de uma intensa busca durante 5 anos, em 2004 encontramos a região ideal para elaborar estes dois tintos premium.</P>
 							</div>
 							<div class="blog-left-bottom left-bottom">
-								<P>Se realizó una pre-vendimia a mediados de julio, desechando en cada planta el exceso de racimos, dejando una producción reducida por cepa para que llegue en condiciones óptimas de concentración a las fechas de recolección, todo ello a pesar de una poda muy “corta”, para que la cepa produzca lo que produciría si fuese todavía más vieja. La cosecha 2009, de este vino de finca (2,9 ha.), se recolectó en los primeros días del mes septiembre, seleccionando los racimos que previa cata de uvas de tres zonas del mismo (hombros, parte central e inferior), considerábamos iban adquiriendo los parámetros equilibrados para elaborar un vino de guarda.</P>
+								<P>Os nossos vinhos apresentam-se numa garrafa de desenho próprio inspirado nas antigas vasilhas do tempo dos descobrimentos que as caravelas levavam.</P>
 							</div>
 							<div class="blog-left-bottom left-bottom">
-								<P>Tras una nueva selección de los racimos en Bodega, seguido del despalillado, la pasta macera prolongadamente a baja temperatura, fermentó con levaduras indígenas procedentes del pie de cuba, realizado días antes con racimos seleccionados de cada variedad.</P>
+								<P>Tipo de vinho: Tinto com 12 meses de barrica de Allier nova.</P>
 							</div>
 							<div class="blog-left-bottom left-bottom">
-								<P>Larga crianza en barrica nueva durante 36 meses, posterior maduración en cuba de inoxidable durante 48 meses, embotellado sin ningún tipo de filtración ni clarificación y 6 meses en botella antes de su comercialización (inicio de la misma en Enero 2017).</P>
+								<P>CLASIFICACION DE ORIGEM: D.O.C. Alentejo: VARIEDADES DE UVA: 80% Aragonez, 15% Alicante Bouschet, 5% Cabernet Sauvignon; GRADUAÇÃO: 14,5% vol.; </P>
 							</div>
 							<div class="blog-left-bottom left-bottom">
-								<P>Fase visual: Color rojo cereza de capa media, brillante y con abundante lágrima.</P>
-							</div>
-							<div class="blog-left-bottom left-bottom">
-								<P>Fase olfativa : Fruta roja madura, particularmente arándanos rojos, especiados y tostados marcados propios de su larga crianza en barrica nueva.</P>
-							</div>
-							<div class="blog-left-bottom left-bottom">
-								<P>Fase gustativa: Fresco, glicérico, mineral, redondo, en el retrogusto presenta toques cítricos de piel de naranja y ciruela, apenas se nota su graduación alcohólica. Final largo y persistente, complejo y por su frutosidad muy presente tendrá una evolución muy positiva en botella.</P>
-							</div>
-							<div class="blog-left-bottom left-bottom">
-								<P>Número de botellas producidas : 6.085</P>
-							</div>
-							<div class="blog-left-bottom left-bottom">
-								<P>AZÚCARES TOTALES: 0,4 ; NIVEL DE ACIDEZ: 6,8 ; POLIFENOLES: 64,78</P>
-							</div>
-							<div class="blog-left-bottom left-bottom">
-								<P>CLASIFICACION DE ORIGEN: D.O.C. Alentejo; AÑADA: 2009; VARIEDADES DE UVA: Aragonez, Alicante Bouschet, Petite sirah and Petit verdot; SUELO DEL VIÑEDO Y EXPOSICIÓN: Pizarroso y exposición Sur; RENDIMIENTO POR HECTÁREA: 5-6.000 kg ; GRADUACIÓN:14,5% vol.; CLIMA DE LA ZONA: mediterráneo y continental; EDAD MEDIA DE LOS VIÑEDOS: 35 años; TIPO DE VENDIMIA: Manual; TIPO DE ELABORACIÓN: Maceración y crianza en barrica muyprolongadas; TEMPERATURA MEDIA DE FERMENTACIÓN: 19º-20º; TIPO DE BARRICAS: tostado medio, grano fino; TEMPERATURA DE CONSUMO: 17º-19º</P>
+								<strong><P>Este vinho mantem as mesmas características do vinho Camões mas o rotulo foi criado especificamente para os países da américa-latina. </P></strong>
 							</div>
 						</div>
 						<!--<div class="response">
@@ -241,7 +223,6 @@
 				<h3>Detalhes</h3>
 				<ul>
 					<li><a href="/adiasvinho/about.html">Sobre</a></li>
-					<li><a href="/adiasvinho/codes.html">Vinhos</a></li>
 					<li><a href="/adiasvinho/contact.html">Contacto</a></li>
 				</ul>
 			</div>
@@ -262,12 +243,13 @@
 				<form>
 					<!--<input type="text" placeholder="Email address" required="">
 					<input type="submit" value="Subscribe">-->
-					<a href="#"><img src="/adiasvinho/images/logo2020.png"></a>
-					<br></br>
+					<br>
 					<ul>
-						<li>A Dias d'Vinho, Lda. <br> Promoção, Consultoria e Comércio de Vinho</li>
-						<li>Empresa candidata ao Portugal 2020 com projecto aprovado nº 020278</li>
+						<li>ADiasdVinho, Lda. <br> Promoção, Consultoria e Comércio de Vinho</li>
+						<li>Empresa candidata a fundos do Portugal 2020 com projecto aprovado nº <strong>020278</strong></li>
 					</ul>
+					<br>
+					<a href="#"><img src="/adiasvinho/images/logo2020.png" width="100%"></a>
 					<!--<p style="color: white; float: left">A Dias d'Vinho, Lda. <br> Promoção, Consultoria e Comércio de vinho</p>-->
 				</form>
 			</div>

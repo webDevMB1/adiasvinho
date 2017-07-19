@@ -41,26 +41,24 @@
 				<h2>Contacto</h2>
 			</div>
 			<div class="map">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3771907.975236311!2d-2.09480472072984!3d39.07355564363949!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1436857347604" frameborder="0" style="border:0" allowfullscreen></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d136054.96323341154!2d-8.728168092384351!3d41.10355366848673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd246527744036f1%3A0x677d50cf52addd75!2sVila+Nova+de+Gaia!5e0!3m2!1spt-PT!2spt!4v1500477161649" style="border:0" allowfullscreen></iframe>
 			</div>
 			<div class="address">
 				<div class="col-md-4 address-grids">
 					<h4>Endereço :</h4>
 					<ul>
-						<li><p>Eiusmod Tempor inc<br>
-								St Dolore Place,<br>
-								Kingsport 56777</p>
+						<li><p>São Felix da Marinha<br>
+								Vila Nova de Gaia</p>
 						</li>
 					</ul>
 				</div>
 				<div class="col-md-4 address-grids">
 					<h4>Telefone :</h4>
-					<p>+2 123 456 789</p>
-					<p>+2 987 654 321</p>
+					<p>967 299 834</p>
 				</div>
 				<div class="col-md-4 address-grids">
 					<h4>Email :</h4>
-					<p><a href="mailto:example@email.com">mail@example.com</a></p>
+					<p><a href="mailto:adi-ass@hotmail.com">adi-ass@hotmail.com</a></p>
 				</div>
 				<div class="clearfix"> </div>
 			</div>

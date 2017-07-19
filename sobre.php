@@ -37,15 +37,15 @@
 	<!-- about -->
 	<div class="about">
 		<div class="about-info">
-			<!-- container -->
+			<!-- container 
 			<div class="container">
 				<h2>Sobre Nós</h2>
-			</div>
+			</div>-->
 			<!-- //container -->
 		</div>
-		<!-- about-bottom -->
-		<div class="about-bottom">
-			<!-- container -->
+		<!-- about-bottom 
+		<div class="about-bottom">-->
+			<!-- container 
 			<div class="container">
 				<div class="about-grids">
 					<div class="col-md-6 about-grid">
@@ -58,36 +58,36 @@
 					</div>
 					<div class="clearfix"> </div>
 				</div>
-			</div>
-			<!-- container -->
-		</div>
+			</div>-->
+			<!-- container 
+		</div>-->
 		<!-- about-bottom -->
-		<!-- choose -->
-		<div class="choose">
-			<!-- container -->
+		<!-- choose 
+		<div class="choose">-->
+			<!-- container 
 			<div class="container">
 				<h3>Porque escolher os nossos vinhos</h3>
 				<div class="choose-grids">
 					<div class="col-md-4 choose-grid">
 						<h5>Donec cursus felis a enim egestas, vitae porttitor elit condimentum.</h5>
-						<p>Etiam ex lorem, cursus vitae placerat a, suscipit dapibus tortor. Sed nec augue enim. Cras rhoncus ultricies eros, interdum aliquam eros iaculis id.</p>
-						<!--<a href="single.html">MORE</a>-->
+						<p>Etiam ex lorem, cursus vitae placerat a, suscipit dapibus tortor. Sed nec augue enim. Cras rhoncus ultricies eros, interdum aliquam eros iaculis id.</p>-->
+						<!--<a href="single.html">MORE</a>
 					</div>
 					<div class="col-md-4 choose-grid">
 						<h5>Donec cursus felis a enim egestas, vitae porttitor elit condimentum.</h5>
-						<p>Etiam ex lorem, cursus vitae placerat a, suscipit dapibus tortor. Sed nec augue enim. Cras rhoncus ultricies eros, interdum aliquam eros iaculis id.</p>
-						<!--<a href="single.html">MORE</a>-->
+						<p>Etiam ex lorem, cursus vitae placerat a, suscipit dapibus tortor. Sed nec augue enim. Cras rhoncus ultricies eros, interdum aliquam eros iaculis id.</p>-->
+						<!--<a href="single.html">MORE</a>
 					</div>
 					<div class="col-md-4 choose-grid">
 						<h5>Donec cursus felis a enim egestas, vitae porttitor elit condimentum.</h5>
-						<p>Etiam ex lorem, cursus vitae placerat a, suscipit dapibus tortor. Sed nec augue enim. Cras rhoncus ultricies eros, interdum aliquam eros iaculis id.</p>
-						<!--<a href="single.html">MORE</a>-->
+						<p>Etiam ex lorem, cursus vitae placerat a, suscipit dapibus tortor. Sed nec augue enim. Cras rhoncus ultricies eros, interdum aliquam eros iaculis id.</p>-->
+						<!--<a href="single.html">MORE</a>
 					</div>
 					<div class="clearfix"> </div>
 				</div>
-			</div>
-			<!-- //container -->
-		</div>
+			</div>-->
+			<!-- //container 
+		</div>-->
 		<!-- //choose -->
 		<!-- about-team -->
 		<div class="about-team">
@@ -95,26 +95,23 @@
 			<div class="container">
 				<h3>A nossa equipa</h3>
 				<div class="team-grids">
-					<div class="col-md-3 team-grid">
+					<div class="col-md-4 team-grid">
 						<img src="images/t1.jpg" alt="">
-						<h6>convallis id mauris</h6>
-						<p> Curabitur orci massa convallis id mauris sed venenatis porttitor at leo nec purus</p>
+						<h6>Eladio Piñeiro</h6>
 					</div>
-					<div class="col-md-3 team-grid">
-						<img src="images/t2.jpg" alt="">
-						<h6>massa convallis</h6>
-						<p> Curabitur orci massa convallis id mauris sed venenatis porttitor at leo nec purus</p>
-					</div>
-					<div class="col-md-3 team-grid">
+					<div class="col-md-4 team-grid">
 						<img src="images/t3.jpg" alt="">
-						<h6>leonec purus</h6>
-						<p> Curabitur orci massa convallis id mauris sed venenatis porttitor at leo nec purus</p>
+						<h6>Adega Alentejo</h6>
 					</div>
-					<div class="col-md-3 team-grid">
+					<div class="col-md-4 team-grid">
+						<img src="images/t2.jpg" alt="">
+						<h6>Armando Dias</h6>
+					</div>
+					<!--<div class="col-md-3 team-grid">
 						<img src="images/t4.jpg" alt="">
 						<h6>venenatis portt</h6>
 						<p> Curabitur orci massa convallis id mauris sed venenatis porttitor at leo nec purus</p>
-					</div>
+					</div>-->
 					<div class="clearfix"> </div>
 				</div>
 			</div>
