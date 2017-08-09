@@ -29,9 +29,53 @@
 	<div class="banner">
 		
 		<!-- include header -->
-		<?php
-			require_once("header.html");
-		?>
+		<!-- header -->
+		<div class="header">
+			<!-- container -->
+			<div class="container">
+				<div class="logo">
+					<!--<h1><a href="/index.html">A Dias de <span>Vinho</span></a></h1>-->
+					<a href="index.html"><img src="images/logoWhite.png" height="auto" width="125"></a>
+				</div>
+				<div class="top-nav">
+					<nav class="navbar navbar-default">
+						<div class="container">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">Menu						
+							</button>
+						</div>
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="margin-top: 2%">
+							<ul id="ulMenu" class="nav navbar-nav">
+								<li><a id="aHome" href="index.html" class="active">Home</a></li>
+								<li><a id="aSobre" href="sobre.html">Sobre</a></li>
+								<li><a id="aVinhos" href="#" class="dropdown-toggle hvr-bounce-to-bottom" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Vinhos<span class="caret"></span></a>
+									<ul class="dropdown-menu">
+										<!--<li><a class="hvr-bounce-to-bottom" href="gallery.html">Portugal</a></li>-->
+										<!-- Area para quando houver mais do que um vinho por pais -->
+										<li class="dropdown-submenu">
+											<a href="#" class="dropdown-toggle" data-toggle="dropdown-submenu" role="button" aria-haspopup="true" aria-expanded="false">Portugal<span class="caret"></span></a>
+											<ul class="dropdown-menu" style="margin-top: 0.5px; padding-left:15px">
+											  <li><a tabindex="-1" href="/vinhos/portugal/alentejo/" style="margin-top: 5%">Alentejo</a></li>
+											</ul>
+									  	</li>
+									  	<!--<li class="dropdown-submenu">
+											<a href="#" class="dropdown-toggle" data-toggle="dropdown-submenu" role="button" aria-haspopup="true" aria-expanded="false">Espanha<span class="caret"></span></a>
+											<ul class="dropdown-menu" style="margin-top: 0.5px; padding-left:10px">
+											  <li><a tabindex="-1" href="/vinhos/espanha/rias_baixas/" style="margin-top: 5%">Rias Baixas</a></li>
+											</ul>
+									  	</li>-->
+									</ul>
+								</li>	
+								<li><a id="aContacto" href="contacto.html">Contacto</a></li>
+							</ul>	
+							<div class="clearfix"> </div>
+						</div>	
+					</nav>		
+				</div>
+			</div>
+			<!-- //container -->
+		</div>
+		<!-- //header -->
 
 		<!-- banner-grids -->
 		<div class="banner-grids">
@@ -87,6 +131,14 @@
 				<!--<h2>"Wine is poetry in a bottle."</h2>-->
 				<h2>"Vinho é poesia numa garrafa."</h2>
 				<h5>Clifton Fadiman</h5>
+				<br>
+				<h2 style="font-size: 40px">"Vino es poesía en una botella."</h2>
+				<h5 style="font-size: 15px">Clifton Fadiman</h5>
+				<br>
+				<h2 style="font-size: 40px">"Le vin est la poésie dans une bouteille."</h2>
+				<h5 style="font-size: 15px">Clifton Fadiman</h5>
+				<br><br>
+				<strong><p>Os vinhos portugueses chegam a França, Suiça e Espanha.</p></strong>
 				<!--<p>Clifton Fadiman</p>-->
 			</div>
 		</div>
@@ -107,7 +159,7 @@
 					<div class="col-md-6 work-grid-left">
 						<h5>Camões</h5>
 						<p>ADiasdVinho, Lda.</p>
-						<a href="/adiasvinho/vinhos/portugal/alentejo/camoes.php" style="text-decoration: none">mais</a>
+						<a href="/vinhos/portugal/alentejo/camoes.html" style="text-decoration: none">mais</a>
 					</div>
 					<div class="col-md-6 work-grid-middle">
 						<center><img src="images/camoes.jpg" alt="camoes" style="height: 260px; width: auto"></center>
@@ -122,7 +174,7 @@
 					<div class="col-md-6 work-grid-left">
 						<h5>La Coartada</h5>
 						<p>ADiasdVinho, Lda.</p>
-						<a href="/adiasvinho/vinhos/portugal/alentejo/la_coartada.php" style="text-decoration: none">mais</a>
+						<a href="/vinhos/portugal/alentejo/la_coartada.html" style="text-decoration: none">mais</a>
 					</div>
 					<div class="clearfix"> </div>
 				</div>
@@ -130,7 +182,7 @@
 					<div class="col-md-6 work-grid-left">
 						<h5>Envidia Cochina</h5>
 						<p>ADiasdVinho, Lda.</p>
-						<a href="/adiasvinho/vinhos/espanha/rias_baixas/envidia_cochina.php" style="text-decoration: none">mais</a>
+						<a href="/vinhos/espanha/rias_baixas/envidia_cochina.html" style="text-decoration: none">mais</a>
 					</div>
 					<div class="col-md-6 work-grid-middle">
 						<center><img src="images/envidia_cochina.jpg" alt="envidia cochina" style="height: 260px; width: auto"></center>
@@ -145,7 +197,7 @@
 					<div class="col-md-6 work-grid-left">
 						<h5>Frore de Carme</h5>
 						<p>ADiasdVinho, Lda.</p>
-						<a href="/adiasvinho/vinhos/espanha/rias_baixas/frore_carme.php" style="text-decoration: none">mais</a>
+						<a href="/vinhos/espanha/rias_baixas/frore_carme.html" style="text-decoration: none">mais</a>
 					</div>
 				</div>-->
 
@@ -185,9 +237,61 @@
 	</div>-->
 	<!-- //news -->
 	
-	<?php
-		require_once("footer.html");
-	?>
+	<!-- footer -->
+	<div class="footer">
+		<!-- container -->
+		<div class="container">
+			<div class="footer-grids">
+				<center>
+				<div class="col-md-4 footer-grid">
+					<h3>Detalhes</h3>
+					<ul>
+						<li><a href="sobre.html">Sobre</a></li>
+						<li><a href="contacto.html">Contacto</a></li>
+					</ul>
+				</div>
+				<div class="col-md-4 footer-grid">
+					<h3>Contacto</h3>
+					<ul>
+						<li>São Felix da Marinha</li>
+						<li>Vila Nova de Gaia</li>
+						<li>Telefone: 967 299 834</li>
+						<li>Email : <a href="mailto:adi-ass@hotmail.com">adi-ass@hotmail.com</a></li>
+					</ul>
+				</div>
+				<!--<div class="col-md-3 footer-grid">
+				</div>-->
+				<div id="pt2020" class="col-md-4 footer-grid">
+					<!--<h3>Apoios</h3>-->
+					<form>
+						<!--<input type="text" placeholder="Email address" required="">
+						<input type="submit" value="Subscribe">-->
+						<br>
+						<ul>
+							<li>ADiasdVinho, Lda. <br> Promoção, Consultoria e Comércio de Vinho</li>
+							<li>Empresa candidata a fundos do Portugal 2020 com projecto aprovado nº <strong>020278</strong></li>
+						</ul>
+						<br>
+						<a href="#"><img src="images/logo2020.png" width="100%"></a>
+						<!--<p style="color: white; float: left">A Dias d'Vinho, Lda. <br> Promoção, Consultoria e Comércio de vinho</p>-->
+					</form>
+				</div>
+				</center>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+		<!-- container -->
+	</div>
+	<!-- //footer -->
+	<!-- footer-bottom -->
+	<div class="footer-bottom">
+		<!-- container -->
+		<div class="container">
+			<p> © 2017 ADiasdVinho | Desenvolvido por <a href="http://www.marcobrinde.com">Marcobrinde</a></p>
+		</div>
+		<!-- //container -->
+	</div>
+	<!-- footer-bottom -->
 	
 	<script type="text/javascript">
 		$(document).ready(function() {
